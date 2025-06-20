@@ -23,7 +23,7 @@ By the end of this exercise, you will be able to:
 
 - Jupyter Notebook or any Python IDE (e.g., VS Code)
 
-- The Chinook.db SQLite database file (available [here](https://www.sqlitetutorial.net/sqlite-sample-database/)
+- The Chinook.db SQLite database file (available [here](https://www.sqlitetutorial.net/sqlite-sample-database/))
 
 **Required Python Libraries**
 ```

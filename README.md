@@ -11,8 +11,11 @@ You’ll learn how views can simplify queries, encapsulate logic, and improve co
 By the end of this exercise, you will be able to:
 
 ✅ Create **lookup views** to isolate reference data
+
 ✅ Create **join views** that combine multiple related tables
+
 ✅ Create **aggregating views** using functions like `COUNT()`, `SUM()`, and `AVG()`
+
 ✅ Safely **drop views** to avoid conflicts during development
 
 ## 🧩 Requirements
